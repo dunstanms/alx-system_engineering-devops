@@ -1,1 +1,1 @@
-go one working dir back
+a script that listsall files including hidden filesin the /boot dir
