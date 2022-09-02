@@ -1,1 +1,1 @@
-list all files including hidden files
+creates first directory in the tmo
